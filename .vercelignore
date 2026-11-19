@@ -1,0 +1,18 @@
+# Development and scratch files
+__pycache__/
+*.py
+*.pyc
+~$*
+.DS_Store
+Thumbs.db
+_arsip_rahasia_lokal/
+*.backup*
+*(old)*
+*.html.bak*
+*.old.html
+README.md
+
+# Root level loose documents (keep root clean, while preserving Sumber Ajar/)
+/*.docx
+/*.pptx
+/*.bak*

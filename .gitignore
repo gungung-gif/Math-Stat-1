@@ -1,0 +1,23 @@
+# Temporary and scratch files
+__pycache__/
+*.pyc
+~$*
+.DS_Store
+Thumbs.db
+_arsip_rahasia_lokal/
+*.backup.html
+* (old).html
+*.py
+
+.vercel
+.env*
+
+# Dokumen evaluasi, soal, kunci jawaban, dan tugas privat
+*Kunci_Jawaban*
+*Rubrik*
+*Tugas*
+*Soal*
+*UTS*
+*UAS*
+*Pengganti*
+UTS Asinkron/

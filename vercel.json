@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/((?!Sumber%20Ajar|Sumber Ajar|.*\\..*).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
